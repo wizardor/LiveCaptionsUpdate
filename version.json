@@ -1,4 +1,5 @@
 {
+  "__complex__": true,
   "version" : "3.0.0", 
   "Topic" : "Json to String", 
   "Method": 1
